@@ -1,3 +1,4 @@
 *.ipynb	diff=jupyternotebook
 *.ipynb	merge=jupyternotebook
 data/togo_clean.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
