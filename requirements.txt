@@ -2,7 +2,10 @@ pandas
 numpy
 matplotlib
 seaborn
+jupyter
+plotly
 echo scipy >> requirements.txt
 echo jupyter >> requirements.txt
 # optionally add streamlit if you will build dashboard
 echo streamlit >> requirements.txt
+
