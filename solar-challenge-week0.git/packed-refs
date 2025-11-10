@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+202f8a0424a32c6a9f673bc43b817894cef844c5 refs/heads/compare-countries
+9cc8462e9d4aa54dc2605c27b3a12f13199facef refs/heads/eda-benin
+81ea5e891689642ba33038b89cd37c6f83fe6f2e refs/heads/eda-sierra
+0c886ce8cff6e437ec9fe199d45942c347a307f4 refs/heads/eda-togo
+ed6f8281371b6d34162787dc9e7d1dfcd88fa16c refs/heads/main
+ab2f3ae6c61b40137a966ee86d4abae21f107092 refs/heads/setup-task
+ab2f3ae6c61b40137a966ee86d4abae21f107092 refs/pull/1/head
+31c22d3fa7d71ed69259c03969c4e35690e88ad5 refs/pull/2/head
+3045ab379782165d371d7de46632f83a839773bd refs/pull/3/head
+15c1c589acc96897c45e1d5d37720e90d6238211 refs/pull/4/head
+0c886ce8cff6e437ec9fe199d45942c347a307f4 refs/pull/5/head
+4d04fe52a4810c3261b6bb7cecf782c60d38c0ce refs/tags/v1.0

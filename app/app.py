@@ -86,7 +86,7 @@ else:
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center; color:gray;'>"
-    "Built with ❤️ using Streamlit & Plotly | © 2025 Solar Data Discovery Project"
+    "Built with ❤️ using Streamlit & Plotly | © 2025 Solar Data Discovery Project by Newaz Nezif "
     "</div>",
     unsafe_allow_html=True
 )
