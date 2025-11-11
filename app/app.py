@@ -16,9 +16,10 @@ st.sidebar.header("🌍 Dashboard Controls 🌍 ")
 
 country = st.sidebar.selectbox("Select a Country:", ["Togo", "Benin", "Sierra Leone"])
 file_map = {
-    "Togo": "data/togo_clean.csv",
+  
     "Benin": "data/benin_clean.csv",
-    "Sierra Leone": "data/sierraleone_clean.csv"
+    "Sierra Leone": "data/sierraleone_clean.csv",
+    "Togo": "data/togo_clean.csv",
 }
 
 file_path = file_map[country]
