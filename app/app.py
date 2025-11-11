@@ -14,7 +14,7 @@ st.set_page_config(
 # --- SIDEBAR ---
 st.sidebar.header("🌍 Dashboard Controls 🌍 ")
 
-country = st.sidebar.selectbox("Select a Country:", ["Togo", "Benin", "Sierra Leone"])
+country = st.sidebar.selectbox("Select a Country:", ["Benin", "Sierra Leone", "Togo"])
 file_map = {
   
     "Benin": "data/benin_clean.csv",
